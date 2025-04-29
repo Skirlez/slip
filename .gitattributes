@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Ignore .nix files for language statistics 
+*.nix linguist-generated=true
